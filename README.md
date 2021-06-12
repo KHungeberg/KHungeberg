@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data analysis, mathematics and science
 - 🌱 I’m currently learning ... Python and R
 - 💞️ I’m looking to collaborate on ... Small innovative projects 
-- 📫 How to reach me ... kristianulrikh@hotmail.com
+- 📫 How to reach me ... kristianulrikh@hotmail.com or linkedin.com/in/kristian-hungeberg-321b89136
 
 <!---
 KHungeberg/KHungeberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
