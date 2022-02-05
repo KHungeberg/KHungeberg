@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KHungeberg
-- 👀 I’m interested in ... Data analysis, mathematics and science
+- 👀 I’m interested in ... Data science, biology and mathematics
 - 🌱 I’m currently learning ... Python and R
 - 💞️ I’m looking to collaborate on ... Small innovative projects 
 - 📫 How to reach me ... kristianulrikh@hotmail.com
